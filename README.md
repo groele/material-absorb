@@ -1,2 +1,2 @@
 # material-absorb
-一个matlab电磁波绘图程序
+一个matlab电磁波吸收绘图程序
